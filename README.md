@@ -14,10 +14,12 @@ By Using PowerBI
 ![Screenshot 2024-07-22 150739](https://github.com/user-attachments/assets/b82de0b8-ea24-4b6c-8a79-4e74c5919684)
 
 
-**KPI’s Requirement**
+# KPI’s Requirement
+
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
-**1.	Sales Overview:**
+# 1.	Sales Overview:
+
 •	Year-to-Date (YTD) Total Sales
 
 •	Month-to-Date (MTD) Total Sales
@@ -27,6 +29,7 @@ The dashboard should provide real-time insights into key performance indicators 
 •	Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
 
 # 2.	Average Price Analysis:
+
 •	YTD Average Price
 
 •	MTD Average Price
@@ -36,6 +39,7 @@ The dashboard should provide real-time insights into key performance indicators 
 •	Difference between YTD Average Price and PTYD Average Price
 
 # 3.	Cars Sold Metrics:
+
 •	YTD Cars Sold
 
 •	MTD Cars Sold
@@ -45,7 +49,8 @@ The dashboard should provide real-time insights into key performance indicators 
 •	Difference between YTD Cars Sold and PTYD Cars Sold
 
 
-**Charts Requirement**
+# Charts Requirement
+
 **1.	YTD Sales Weekly Trend:** Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
 
 **2.	YTD Total Sales by Body Style:** Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
